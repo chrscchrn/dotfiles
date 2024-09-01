@@ -30,3 +30,4 @@ fi
 if [ -d "$HOME/.lua-language-server/bin" ] ; then
     PATH="$HOME/.lua-language-server/bin:$PATH"
 fi
+
