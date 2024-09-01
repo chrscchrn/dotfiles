@@ -129,4 +129,4 @@ export NVM_DIR="$HOME/.nvm"
 source $(brew --prefix nvm)/nvm.sh
 
 # Use Docker as current user
-newgrp docker
+# newgrp docker
